@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Development with PowerLearn Project and Social Work at the University of Zambia.
+- 🎓 &nbsp; Studying Software Development(WEB DEV) with ZERO TO FULL-STACK HERO PAPAFAM UNIVERSITY OF CODE, PowerLearn Project and Social Work at the University of Zambia.
 - 💼 &nbsp; Currently looking for a job as a jr developer.
 - 🌱 &nbsp; Learning more about Software Development and Cyber Security and Ethical Hacking.
 - ✍️ &nbsp; Commited on Individual Growth and Learning.
@@ -23,6 +23,11 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Tailwind css]()
+  ![Redux]()
+  ![Firebase]()
+  ![Typescript]()
+  ![NextJs 13]()
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
