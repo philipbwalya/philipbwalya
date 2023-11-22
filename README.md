@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h1 align="center">Hi 👋, I'm PHILIP BWALYA</h1>
+<h1 align="center">Hi There 👋, I'm PHILIP BWALYA</h1>
 <h3 align="center">A passionate Full-Stack developer from Zambia</h3>
 <img align='right' alt='coding' width='400' src='https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
