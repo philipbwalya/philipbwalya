@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full-Stack developer from Zambia</h3>
 <img align='right' alt='coding' width='400' src='https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me. </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Development(WEB DEV) with ZERO TO FULL-STACK HERO PAPAFAM UNIVERSITY OF CODE, PowerLearn Project and Social Work at the University of Zambia.
