@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me. </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Completed my Full-Stack Software Development training with FreeCodeCamp, MindCluster, ZERO TO FULL-STACK HERO PAPAFAM UNIVERSITY OF CODE, PowerLearn Project as well as Complted a 4 year Bachelors degree program in Social Work at the University of Zambia.
+- 🎓 &nbsp; Completed my Full-Stack Software Development training with FreeCodeCamp, MindCluster, ZERO TO FULL-STACK HERO PAPAFAM UNIVERSITY OF CODE, PowerLearn Project as well as Completed a 4 year Bachelors degree program in Social Work at the University of Zambia.
 - 💼 &nbsp; Currently looking for a job as a Full-Stack developer.
 - 🌱 &nbsp; Learning more about Software Development and Cyber Security and Ethical Hacking.
 - ✍️ &nbsp; Commited on Individual Growth and Learning.
