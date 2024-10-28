@@ -67,11 +67,12 @@
 
 
 <a href="https://github.com/philipbwalya">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipbwalya&show_icons=true&locale=en&layout=compact" alt="philipbwalya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philipbwalya&" alt="philipbwalya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philipbwalya&show_icons=true&locale=en" alt="philipbwalya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philipbwalya&" alt="philipbwalya" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipbwalya&show_icons=true&locale=en&layout=compact" alt="philipbwalya" /></p>
 <a/>
   
 
