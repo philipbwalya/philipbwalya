@@ -56,7 +56,7 @@ See past quotes in [quotes-archive.txt](quotes-archive.txt).
 
 <p align="center">
 <a href="https://www.linkedin.com/in/philipbwalya00"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-philipbwalya00-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://github.com/philipbwaly)"><img alt="Website" src="https://img.shields.io/badge/Website-www.philipbwalya.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://github.com/philipbwaly)"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-+260-96268-9966-blue?style=flat-square&logo=WhatsApp"></a>
 <a href="https://www.x.com/philipbwalya00"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-philip (e/acc)-blue?style=flat-square&logo=x"></a>
 <a href="philipbwalya2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-philipbwalya2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
