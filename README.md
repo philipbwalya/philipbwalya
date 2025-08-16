@@ -40,21 +40,19 @@
 ## 🌟 Daily Inspiration From [philipbwalya](https://github.com/philipbwalya)
 
 <!-- QUOTE-START -->
-**Today's Quote**  
+
+**Today's Quote**
+
 > "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
-*Updated on 2025-08-16*
+> _Updated on 2025-08-16_
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
+
 <!-- QUOTE-END -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipbwalya&label=Profile%20views&color=0e75b6&style=flat" alt="philipbwalya" /> </p>
 
 <h3 align='center'> 🤝🏻 &nbsp;Connect with Me </h3>
-<br/>
-
-- 📫 You can reach me on my email address **philipbwalya2000@gmail.com**
-
-<br/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/philipbwalya00"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-philipbwalya00-blue?style=flat-square&logo=linkedin"></a>
