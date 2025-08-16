@@ -17,14 +17,16 @@
 - 💻 &nbsp;
 - 🌐 &nbsp;
   ![Next.JS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwindcss)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwindcss)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -46,7 +48,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipbwalya&label=Profile%20views&color=0e75b6&style=flat" alt="philipbwalya" /> </p>
 
-- 🔭 I’m currently working on **Learning Management Sysytem Application**
+- 🔭 I’m currently working on **Learning Management System Application**
 
 - 💬 Ask me about **FULL-STACK WEB DEVELOPMENT**
 
