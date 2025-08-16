@@ -1,0 +1,33 @@
+name: Update Daily Quote
+on:
+  schedule:
+    - cron: "30 08 * * *" # 13:25 in CAT which is +2 in UTC 11:25
+  workflow_dispatch: # allows manual run
+
+permissions:
+  contents: write # Grants write access to repository contents
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install dependencies
+        run: npm install
+      - name: Run script
+        run: node index.js
+      - name: Commit changes
+
+        run: |
+          git config --local user.email "philipbwalya@users.noreply.github.com"
+          git config --local user.name "philipbwalya"
+          git add .
+          git commit -m "Daily motivational quote update 🌟: Update for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
