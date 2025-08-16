@@ -38,12 +38,12 @@
 <br/>
 
 ## 🌟 Daily Inspiration From [philipbwalya](https://github.com/philipbwalya)
+
 <!-- QUOTE-START -->
-This will be replaced with a daily quote
+
+You Got this 💪
+
 <!-- QUOTE-END -->
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipbwalya&label=Profile%20views&color=0e75b6&style=flat" alt="philipbwalya" /> </p>
 
@@ -63,15 +63,10 @@ This will be replaced with a daily quote
 
 <BR/>
 
-
 <a href="https://github.com/philipbwalya">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philipbwalya&" alt="philipbwalya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philipbwalya&show_icons=true&locale=en" alt="philipbwalya" /></p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipbwalya&show_icons=true&locale=en&layout=compact" alt="philipbwalya" /></p>
 <a/>
-  
-
-
