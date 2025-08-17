@@ -40,14 +40,11 @@
 ## 🌟 Daily Inspiration From [philipbwalya](https://github.com/philipbwalya)
 
 <!-- QUOTE-START -->
-
-**Today's Quote**
-
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
-> _Updated on 2025-08-16_
+**Today's Quote**  
+> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
+*Updated on 2025-08-17*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
-
 <!-- QUOTE-END -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipbwalya&label=Profile%20views&color=0e75b6&style=flat" alt="philipbwalya" /> </p>
