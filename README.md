@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
-*Updated on 2025-08-19*
+> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
+*Updated on 2025-08-20*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
