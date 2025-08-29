@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "It always seems impossible until it's done." — Nelson Mandela  
-*Updated on 2025-08-27*
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
+*Updated on 2025-08-29*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
