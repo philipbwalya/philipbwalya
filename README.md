@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
-*Updated on 2025-08-29*
+> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
+*Updated on 2025-08-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
