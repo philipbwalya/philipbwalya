@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to do great work is to love what you do." — Steve Jobs  
-*Updated on 2025-09-01*
+> "Get busy living or get busy dying." — Stephen King  
+*Updated on 2025-09-02*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
