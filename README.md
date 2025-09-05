@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
-*Updated on 2025-09-04*
+> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
+*Updated on 2025-09-05*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
