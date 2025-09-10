@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
-*Updated on 2025-09-09*
+> "The best way to predict the future is to invent it." — Alan Kay  
+*Updated on 2025-09-10*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
