@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to do great work is to love what you do." — Steve Jobs  
-*Updated on 2025-09-11*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2025-09-12*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
