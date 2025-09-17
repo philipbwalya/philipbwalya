@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2025-09-16*
+> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
+*Updated on 2025-09-17*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
