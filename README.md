@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The best way to predict the future is to invent it." — Alan Kay  
-*Updated on 2025-09-28*
+> "Act as if what you do makes a difference. It does." — William James  
+*Updated on 2025-09-29*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
