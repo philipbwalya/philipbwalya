@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Act as if what you do makes a difference. It does." — William James  
-*Updated on 2025-09-29*
+> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
+*Updated on 2025-09-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
