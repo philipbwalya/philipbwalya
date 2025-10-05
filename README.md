@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2025-10-04*
+> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
+*Updated on 2025-10-05*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
