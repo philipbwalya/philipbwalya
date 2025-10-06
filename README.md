@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
-*Updated on 2025-10-05*
+> "The best way to predict the future is to invent it." — Alan Kay  
+*Updated on 2025-10-06*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
