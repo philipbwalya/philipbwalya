@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The best way to predict the future is to invent it." — Alan Kay  
-*Updated on 2025-10-06*
+> "Believe you can and you're halfway there." — Theodore Roosevelt  
+*Updated on 2025-10-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
