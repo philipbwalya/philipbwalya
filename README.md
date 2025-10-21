@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2025-10-19*
+> "You must be the change you wish to see in the world." — Mahatma Gandhi  
+*Updated on 2025-10-21*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
