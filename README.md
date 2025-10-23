@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
-*Updated on 2025-10-22*
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
+*Updated on 2025-10-23*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
