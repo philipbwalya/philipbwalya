@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Don’t watch the clock; do what it does. Keep going." — Sam Levenson  
-*Updated on 2025-10-25*
+> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
+*Updated on 2025-10-26*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
