@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
-*Updated on 2025-10-27*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2025-10-28*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
