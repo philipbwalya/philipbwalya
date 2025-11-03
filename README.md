@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
-*Updated on 2025-11-02*
+> "If you can dream it, you can do it." — Walt Disney  
+*Updated on 2025-11-03*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
