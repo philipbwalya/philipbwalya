@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "If you can dream it, you can do it." — Walt Disney  
-*Updated on 2025-11-03*
+> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
+*Updated on 2025-11-04*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
