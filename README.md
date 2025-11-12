@@ -42,7 +42,7 @@
 <!-- QUOTE-START -->
 **Today's Quote**  
 > "The best way to predict the future is to invent it." — Alan Kay  
-*Updated on 2025-11-11*
+*Updated on 2025-11-12*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
