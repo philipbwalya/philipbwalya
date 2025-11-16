@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
-*Updated on 2025-11-15*
+> "What you do today can improve all your tomorrows." — Ralph Marston  
+*Updated on 2025-11-16*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
