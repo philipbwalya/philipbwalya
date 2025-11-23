@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
-*Updated on 2025-11-22*
+> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt  
+*Updated on 2025-11-23*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
