@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt  
-*Updated on 2025-11-23*
+> "Believe you can and you're halfway there." — Theodore Roosevelt  
+*Updated on 2025-11-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
