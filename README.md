@@ -42,7 +42,7 @@
 <!-- QUOTE-START -->
 **Today's Quote**  
 > "Believe you can and you're halfway there." — Theodore Roosevelt  
-*Updated on 2025-11-24*
+*Updated on 2025-11-25*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
