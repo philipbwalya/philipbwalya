@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "If you can dream it, you can do it." — Walt Disney  
-*Updated on 2025-11-29*
+> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
+*Updated on 2025-11-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
