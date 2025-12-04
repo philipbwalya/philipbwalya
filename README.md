@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
-*Updated on 2025-12-03*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2025-12-04*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
