@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "It always seems impossible until it's done." — Nelson Mandela  
-*Updated on 2025-12-05*
+> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
+*Updated on 2025-12-06*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
