@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2025-12-10*
+> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
+*Updated on 2025-12-11*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
