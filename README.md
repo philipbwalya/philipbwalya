@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "You must be the change you wish to see in the world." — Mahatma Gandhi  
-*Updated on 2025-12-15*
+> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
+*Updated on 2025-12-16*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
