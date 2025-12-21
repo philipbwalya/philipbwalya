@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Don’t watch the clock; do what it does. Keep going." — Sam Levenson  
-*Updated on 2025-12-20*
+> "The harder I work, the luckier I get." — Gary Player  
+*Updated on 2025-12-21*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
