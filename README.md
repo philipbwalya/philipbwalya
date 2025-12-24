@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
-*Updated on 2025-12-23*
+> "You miss 100% of the shots you don’t take." — Wayne Gretzky  
+*Updated on 2025-12-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
