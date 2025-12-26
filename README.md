@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "You must be the change you wish to see in the world." — Mahatma Gandhi  
-*Updated on 2025-12-25*
+> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
+*Updated on 2025-12-26*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
