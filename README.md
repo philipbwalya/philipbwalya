@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
-*Updated on 2025-12-26*
+> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
+*Updated on 2025-12-27*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
