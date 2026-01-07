@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to do great work is to love what you do." — Steve Jobs  
-*Updated on 2026-01-06*
+> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
+*Updated on 2026-01-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
