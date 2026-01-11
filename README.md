@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
-*Updated on 2026-01-10*
+> "The only way to do great work is to love what you do." — Steve Jobs  
+*Updated on 2026-01-11*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
