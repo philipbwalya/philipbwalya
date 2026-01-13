@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "You miss 100% of the shots you don’t take." — Wayne Gretzky  
-*Updated on 2026-01-12*
+> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
+*Updated on 2026-01-13*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
