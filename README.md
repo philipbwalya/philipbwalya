@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "What you do today can improve all your tomorrows." — Ralph Marston  
-*Updated on 2026-01-14*
+> "The harder I work, the luckier I get." — Gary Player  
+*Updated on 2026-01-15*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
