@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Believe you can and you're halfway there." — Theodore Roosevelt  
-*Updated on 2026-01-24*
+> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
+*Updated on 2026-01-25*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
