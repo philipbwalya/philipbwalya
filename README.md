@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
-*Updated on 2026-01-26*
+> "Believe you can and you're halfway there." — Theodore Roosevelt  
+*Updated on 2026-01-27*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
