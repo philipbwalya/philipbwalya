@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Believe you can and you're halfway there." — Theodore Roosevelt  
-*Updated on 2026-01-27*
+> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
+*Updated on 2026-01-28*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
