@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2026-02-10*
+> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
+*Updated on 2026-02-11*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
