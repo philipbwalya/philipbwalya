@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2026-02-13*
+> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
+*Updated on 2026-02-14*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
