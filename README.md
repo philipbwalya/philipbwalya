@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2026-02-15*
+> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
+*Updated on 2026-02-16*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
