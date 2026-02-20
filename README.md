@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
-*Updated on 2026-02-19*
+> "Don’t watch the clock; do what it does. Keep going." — Sam Levenson  
+*Updated on 2026-02-20*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
