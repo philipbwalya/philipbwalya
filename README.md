@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Believe you can and you're halfway there." — Theodore Roosevelt  
-*Updated on 2026-03-06*
+> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
+*Updated on 2026-03-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
