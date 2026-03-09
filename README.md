@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
-*Updated on 2026-03-08*
+> "The best way to predict the future is to invent it." — Alan Kay  
+*Updated on 2026-03-09*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->

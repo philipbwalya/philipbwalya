@@ -207,3 +207,4 @@
 2026-03-06: "Believe you can and you're halfway there." — Theodore Roosevelt
 2026-03-07: "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy
 2026-03-08: "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh
+2026-03-09: "The best way to predict the future is to invent it." — Alan Kay
