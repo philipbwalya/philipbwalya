@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2026-03-10*
+> "The best way to predict the future is to invent it." — Alan Kay  
+*Updated on 2026-03-11*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
