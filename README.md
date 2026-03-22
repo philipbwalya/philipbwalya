@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to do great work is to love what you do." — Steve Jobs  
-*Updated on 2026-03-21*
+> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
+*Updated on 2026-03-22*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
