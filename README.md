@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
-*Updated on 2026-03-22*
+> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
+*Updated on 2026-03-23*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
