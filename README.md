@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "If you can dream it, you can do it." — Walt Disney  
-*Updated on 2026-03-29*
+> "The biggest risk is not taking any risk." — Mark Zuckerberg  
+*Updated on 2026-03-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
