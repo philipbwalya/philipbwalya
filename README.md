@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The biggest risk is not taking any risk." — Mark Zuckerberg  
-*Updated on 2026-03-30*
+> "Get busy living or get busy dying." — Stephen King  
+*Updated on 2026-03-31*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
