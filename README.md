@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
-*Updated on 2026-04-02*
+> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
+*Updated on 2026-04-03*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
