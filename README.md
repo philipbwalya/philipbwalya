@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "It always seems impossible until it's done." — Nelson Mandela  
-*Updated on 2026-04-08*
+> "Get busy living or get busy dying." — Stephen King  
+*Updated on 2026-04-09*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
