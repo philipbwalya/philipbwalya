@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2026-04-11*
+> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
+*Updated on 2026-04-12*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
