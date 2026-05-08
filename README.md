@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2026-05-07*
+> "Act as if what you do makes a difference. It does." — William James  
+*Updated on 2026-05-08*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
