@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Act as if what you do makes a difference. It does." — William James  
-*Updated on 2026-05-08*
+> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
+*Updated on 2026-05-09*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
