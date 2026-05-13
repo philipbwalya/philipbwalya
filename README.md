@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
-*Updated on 2026-05-12*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2026-05-13*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
