@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2026-05-13*
+> "It always seems impossible until it's done." — Nelson Mandela  
+*Updated on 2026-05-14*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
