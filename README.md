@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
-*Updated on 2026-05-15*
+> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
+*Updated on 2026-05-16*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
