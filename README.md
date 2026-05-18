@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
-*Updated on 2026-05-17*
+> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
+*Updated on 2026-05-18*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
