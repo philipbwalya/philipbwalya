@@ -42,7 +42,7 @@
 <!-- QUOTE-START -->
 **Today's Quote**  
 > "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2026-05-23*
+*Updated on 2026-05-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
