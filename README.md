@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The best way to predict the future is to invent it." — Alan Kay  
-*Updated on 2026-06-06*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2026-06-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
