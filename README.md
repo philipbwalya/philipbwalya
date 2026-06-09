@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "If you can dream it, you can do it." — Walt Disney  
-*Updated on 2026-06-08*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2026-06-09*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
