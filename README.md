@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2026-06-09*
+> "What you do today can improve all your tomorrows." — Ralph Marston  
+*Updated on 2026-06-10*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
