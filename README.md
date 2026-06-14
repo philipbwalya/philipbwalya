@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Believe you can and you're halfway there." — Theodore Roosevelt  
-*Updated on 2026-06-13*
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
+*Updated on 2026-06-14*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
