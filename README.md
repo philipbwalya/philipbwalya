@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
-*Updated on 2026-06-17*
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
+*Updated on 2026-06-18*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
