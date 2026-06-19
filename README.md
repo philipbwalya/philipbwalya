@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
-*Updated on 2026-06-18*
+> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
+*Updated on 2026-06-19*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
