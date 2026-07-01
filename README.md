@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2026-06-30*
+> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt  
+*Updated on 2026-07-01*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
