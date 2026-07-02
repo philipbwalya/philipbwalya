@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt  
-*Updated on 2026-07-01*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2026-07-02*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
