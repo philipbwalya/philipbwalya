@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2026-07-07*
+> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
+*Updated on 2026-07-08*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
