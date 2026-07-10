@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2026-07-09*
+> "Don’t watch the clock; do what it does. Keep going." — Sam Levenson  
+*Updated on 2026-07-10*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
