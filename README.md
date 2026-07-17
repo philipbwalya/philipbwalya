@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
-*Updated on 2026-07-16*
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
+*Updated on 2026-07-17*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
