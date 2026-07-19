@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
-*Updated on 2026-07-18*
+> "The only way to do great work is to love what you do." — Steve Jobs  
+*Updated on 2026-07-19*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
