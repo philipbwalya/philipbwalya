@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
-*Updated on 2026-07-21*
+> "You miss 100% of the shots you don’t take." — Wayne Gretzky  
+*Updated on 2026-07-22*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
