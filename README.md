@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "You miss 100% of the shots you don’t take." — Wayne Gretzky  
-*Updated on 2026-07-22*
+> "The best way to predict the future is to invent it." — Alan Kay  
+*Updated on 2026-07-23*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
