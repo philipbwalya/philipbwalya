@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2026-07-28*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2026-07-29*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
