@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2026-07-29*
+> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
+*Updated on 2026-07-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
