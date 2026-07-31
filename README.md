@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
-*Updated on 2026-07-30*
+> "If you can dream it, you can do it." — Walt Disney  
+*Updated on 2026-07-31*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
