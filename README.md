@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2026-08-01*
+> "Don’t watch the clock; do what it does. Keep going." — Sam Levenson  
+*Updated on 2026-08-02*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
