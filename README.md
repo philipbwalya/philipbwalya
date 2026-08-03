@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Don’t watch the clock; do what it does. Keep going." — Sam Levenson  
-*Updated on 2026-08-02*
+> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
+*Updated on 2026-08-03*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
