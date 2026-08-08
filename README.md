@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
-*Updated on 2026-08-07*
+> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
+*Updated on 2026-08-08*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
