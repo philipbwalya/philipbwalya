@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
-*Updated on 2026-08-14*
+> "Act as if what you do makes a difference. It does." — William James  
+*Updated on 2026-08-15*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
