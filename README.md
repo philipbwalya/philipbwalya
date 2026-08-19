@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
-*Updated on 2026-08-18*
+> "The harder I work, the luckier I get." — Gary Player  
+*Updated on 2026-08-19*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
