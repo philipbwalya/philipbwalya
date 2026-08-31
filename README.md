@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Believe you can and you're halfway there." — Theodore Roosevelt  
-*Updated on 2026-08-30*
+> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
+*Updated on 2026-08-31*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
