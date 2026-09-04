@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
-*Updated on 2026-09-03*
+> "What you do today can improve all your tomorrows." — Ralph Marston  
+*Updated on 2026-09-04*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
