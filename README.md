@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
-*Updated on 2026-09-11*
+> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
+*Updated on 2026-09-12*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
