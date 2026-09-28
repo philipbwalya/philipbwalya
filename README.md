@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
-*Updated on 2026-09-27*
+> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
+*Updated on 2026-09-28*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
