@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
-*Updated on 2026-09-28*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2026-09-29*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
