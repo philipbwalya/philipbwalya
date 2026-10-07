@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
-*Updated on 2026-10-06*
+> "Act as if what you do makes a difference. It does." — William James  
+*Updated on 2026-10-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
