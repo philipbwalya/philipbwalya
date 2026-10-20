@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
-*Updated on 2026-10-19*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2026-10-20*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
