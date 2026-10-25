@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
-*Updated on 2026-10-24*
+> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
+*Updated on 2026-10-25*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
