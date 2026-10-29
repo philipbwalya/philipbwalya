@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "Believe you can and you're halfway there." — Theodore Roosevelt  
-*Updated on 2026-10-28*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2026-10-29*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
