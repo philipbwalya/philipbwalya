@@ -41,8 +41,8 @@
 
 <!-- QUOTE-START -->
 **Today's Quote**  
-> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
-*Updated on 2026-11-06*
+> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
+*Updated on 2026-11-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
 <!-- QUOTE-END -->
